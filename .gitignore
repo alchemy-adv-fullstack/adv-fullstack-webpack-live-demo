@@ -1,0 +1,7 @@
+# Ignore webpack generated files.
+dist
+# Ignore npm generated files.
+node_modules
+
+# Ignore vs-code generated files, though this should go in global ignores.
+.vscode
